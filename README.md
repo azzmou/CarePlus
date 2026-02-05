@@ -59,5 +59,5 @@ User-specific files, build artifacts, and sensitive configuration data are exclu
 
 ## 📅 Academic Context
 
-Developed as an academic project.  
+Developed as in the Foundation academic project.  
 Year: 2025–2026
