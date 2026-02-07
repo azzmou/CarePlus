@@ -41,12 +41,6 @@ The app provides a shared digital environment where daily care activities can be
 
 - Antonio Ferone  
 - Mouchtakiri Azzeddine  
-- Wafae El Ahmadi  
-- Lorenzo Ascione  
-- Giuseppe Curcio  
-- Sanauallah Aman  
-- Tauheed Khan  
-
 ---
 
 ## 📂 Project Notes
